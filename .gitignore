@@ -58,3 +58,6 @@ target/
 
 # Django
 static/
+
+# vim
+.sw[op]
