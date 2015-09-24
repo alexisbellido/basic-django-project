@@ -10,4 +10,7 @@ def index(request):
         ip = x_forwarded_for.split(',')[0]
     else:
         ip = request.META.get('REMOTE_ADDR')
-    return HttpResponse("Hello, world. You're at the polls index. IP: " + ip)
+    return HttpResponse("Hello, you're at the polls index. IP: " + ip)
+
+def appcheck(request):
+    return HttpResponse("ok")
