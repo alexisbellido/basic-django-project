@@ -3,4 +3,6 @@ TODO
 
 - Setup local job with Jenkins.
 
-- Upgrade project and test onenineapp to Django 1.9.
+- Use onenineapp for Django 1.9 to setup basic myapp.
+
+- Upgrade django-zinibu-skeleton for Django 1.9 and add it to project.
