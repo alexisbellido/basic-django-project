@@ -1,4 +1,6 @@
 TODO
 ======
 
-- Upgrade project and test onenineapp to Django 1.9
+- Setup local job with Jenkins.
+
+- Upgrade project and test onenineapp to Django 1.9.
