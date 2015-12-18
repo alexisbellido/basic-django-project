@@ -1,8 +1,6 @@
 TODO
 ======
 
-- Setup local job with Jenkins.
+- Setup znbskeleton's URLs with namespace
 
-- Use onenineapp for Django 1.9 to setup basic myapp.
-
-- Upgrade django-zinibu-skeleton for Django 1.9 and add it to project.
+- Examples of simplest views (p. 107)
